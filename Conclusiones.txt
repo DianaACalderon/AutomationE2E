@@ -1,0 +1,16 @@
+Conclusiones del Ejercicio
+
+Hallazgos
+
+- **Autenticación**: La autenticación con las credenciales proporcionadas (usuario: `standard_user`, contraseña: `secret_sauce`) funcionó correctamente.
+- **Añadir Productos al Carrito**: Se logró agregar dos productos al carrito sin problemas.
+- **Visualización del Carrito**: El carrito de compras se visualizó correctamente.
+- **Formulario de Compra**: El formulario se completó con éxito.
+- **Confirmación de Compra**: La confirmación de compra mostró el mensaje “THANK YOU FOR YOUR ORDER” correctamente.
+
+Conclusiones
+
+- La prueba E2E cubre todos los aspectos del flujo de compra en Saucedemo de manera eficaz.
+- Serenity BDD facilitó la creación de pruebas legibles y mantenibles.
+- Se recomienda continuar con la automatización de pruebas para cubrir otros escenarios y flujos del sitio web.
+
